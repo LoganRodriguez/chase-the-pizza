@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD///////8P8P///////w/wMzMzM///APAzIzMz//8P8DMzMzPz/w/wMzMzM///APAzMzMz//8P8DMzMzP//w/wMzMzM///APAzMzMz8/8P8DMjMzP//w/wMzMzM///APD///////8PAP///////w8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Jared"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
